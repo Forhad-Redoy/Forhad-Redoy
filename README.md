@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Forhad Redoy</h1>
 <h3 align="center">Frontend Developer, Web Developer, Full Stack Developer</h3>
-
+<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQFN2KdmePRuRA/profile-displaybackgroundimage-shrink_350_1400/B56Zty50oWGwAc-/0/1767159319628?e=1769040000&v=beta&t=Gc-Du3FzEd5ZqxqaEN4heyIFaZPlCXHWO2EskFTz44k" alt="forhad redoy"  />
 
 
 
