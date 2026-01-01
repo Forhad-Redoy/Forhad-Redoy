@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Forhad Redoy</h1>
 <h3 align="center">Frontend Developer, Web Developer, Full Stack Developer</h3>
 <img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQFN2KdmePRuRA/profile-displaybackgroundimage-shrink_350_1400/B56Zty50oWGwAc-/0/1767159319628?e=1769040000&v=beta&t=Gc-Du3FzEd5ZqxqaEN4heyIFaZPlCXHWO2EskFTz44k" alt="forhad redoy"  />
+<h3 align="left">About me:</h3>
+<p>I am a passionate Frontend Developer who enjoys building clean, user-friendly web applications.</p>
+<p>I love working with modern JavaScript frameworks and continuously learning new technologies.</p>
+<p>My goal is to create impactful digital experiences through code.</p>
 
-
-
-
+<h3 align="left">Current Activities:</h3>
+<p>- 🔭 I’m exploring **Next.js**</p>
+<p>- 🌍 I’m working on a **Tourism Website**</p>
+<p>- 📚 Learning advanced **Node.js & Express**</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/forhad-redoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="forhad redoy" height="30" width="40" /></a>
