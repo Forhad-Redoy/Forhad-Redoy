@@ -8,7 +8,7 @@
 
 <h3 align="left">Current Activities:</h3>
 <p>- 🔭 I’m exploring **Next.js**</p>
-<p>- 🌍 I’m working on a **Tourism Website**</p>
+<p>- 🌍 I’m working on a **Pet Adoption Management System**</p>
 <p>- 📚 Learning advanced **Node.js & Express**</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
