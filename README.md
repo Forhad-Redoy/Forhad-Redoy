@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Forhad Redoy</h1>
 <h3 align="center">Frontend Developer, Web Developer, Full Stack Developer</h3>
-<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQFN2KdmePRuRA/profile-displaybackgroundimage-shrink_350_1400/B56Zty50oWGwAc-/0/1767159319628?e=1775692800&v=beta&t=4qc3fkw4Dk3vNNfm03J6LiEp9ELXKq3ytwOo1EZGSls" alt="forhad redoy"  />
+<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQFN2KdmePRuRA/profile-displaybackgroundimage-shrink_350_1400/B56Zty50oWGwAc-/0/1767159319628?e=1777507200&v=beta&t=HKW7tMIHUyU3fgKZ9YXbvAevDJv3Xd5ztf4Lz5AyeNM" alt="forhad redoy"  />
 <h3 align="left">About me:</h3>
 <p>I am a passionate Frontend Developer who enjoys building clean, user-friendly web applications.</p>
 <p>I love working with modern JavaScript frameworks and continuously learning new technologies.</p>
